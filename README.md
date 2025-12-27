@@ -20,11 +20,10 @@ To automate the vehicle startup, you need to configure the crontab.
 1. Open crontab:
    crontab -e
 
-2. Add those two lines at the end of the file:
-    @reboot sudo pigpiod  
-    @reboot python3 /home/dawid/Desktop/inz/camera_v2.py
+2. Add those two lines at the end of the file:  <br>
+    @reboot sudo pigpiod  <br>
+    @reboot python3 /home/dawid/Desktop/inz/camera_v2.py  <br>
    
-   Explanation:
-
-    @reboot sudo pigpiod – alternative PIN mode. PWM works through DMA (Direct Memory Access), which eliminates servo jitter.
-    @reboot python3 /home/dawid/Desktop/inz/camera_v2.py – starts the main script automatically on Raspberry Pi boot.
+   Explanation:  <br>
+    @reboot sudo pigpiod – alternative PIN mode. PWM works through DMA (Direct Memory Access), which eliminates servo jitter.  <br>
+    @reboot python3 /home/dawid/Desktop/inz/camera_v2.py – starts the main script automatically on Raspberry Pi boot.  
