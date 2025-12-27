@@ -1,6 +1,6 @@
 # Person following vehicle
 
-![Pojazd](images/pojazd.jpg)
+![Vehicle](images/pojazd.jpg)
 
 ---
 
