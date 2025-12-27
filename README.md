@@ -1,14 +1,14 @@
 # Person following vehicle
 
-![Vehicle](images/pojazd.jpg)
+![Vehicle](images/vehicle.png)
 
 ---
 
 ## 1. Electronic circuits
 
 <p align="center">
-  <img src="images/schemat1.jpg" width="45%" />
-  <img src="images/schemat2.jpg" width="45%" />
+  <img src="images/rasp_circuit.png" width="45%" />
+  <img src="images/supply_circuit.png" width="45%" />
 </p>
 
 ---
