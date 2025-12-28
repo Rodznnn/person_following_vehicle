@@ -1,7 +1,8 @@
 # Person following vehicle
+An autonomous mobile platform designed to track and follow a specific person using computer vision and Raspberry Pi 4B.
 
 ![Vehicle](images/vehicle.png)
-An autonomous mobile platform designed to track and follow a specific person using computer vision and Raspberry Pi 4B.
+
 ---
 
 ## 1. Electronic circuits
